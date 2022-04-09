@@ -1,6 +1,6 @@
 /*
  *  Weather Station Term Project - Phase III
- *  CET 440 - Hailey Maimone, Ricky Peddicordc - 12/04/2020
+ *  CET 440 - Hailey Maimone
  *
  *  Purpose: To communicate with the weather server on ryker using
  *           the wx protocol to retrieve current campus weather
